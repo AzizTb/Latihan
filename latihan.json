@@ -1,0 +1,11 @@
+[
+    {
+        "nama" : "Nurul Huda",
+        "tempat" : "Surabaya",
+        "hobi" : [
+            {"satu" : "Mengrenang"},
+            {"satu" : "Menglari"},
+            {"satu" : "Mengtamasya"}
+        ]
+    }
+]
